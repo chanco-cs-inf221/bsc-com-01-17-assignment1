@@ -1,0 +1,88 @@
+body{
+    align-content: center;
+    background-image: url("black_lines_background_spot_69524_2560x1600.jpg");
+}
+header{
+    border: 2px solid white;
+    height: 400px;
+    padding: 20px;
+    margin: 100px;
+    border-style: solid;
+}
+
+#links{
+   float: right;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+header p{
+    float: right;
+}
+    
+    
+}
+#box{
+    float: left;
+    border: 2px solid white;
+    height:400px;
+    padding: 20px;
+    margin: 100px;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack:-pack: center;
+    color: white;
+}
+#b1{
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    padding:20px;
+    margin:10px; 
+    -webkit-box-flex: 1;
+}
+#b2{
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    padding:20px;
+    margin:10px; 
+    -webkit-box-flex: 1;
+}
+#b3{
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    padding:20px;
+    margin:10px; 
+    -webkit-box-flex: 1;
+}
+#b4{
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    padding:20px;
+    margin:10px; 
+    -webkit-box-flex: 1;
+}
+#box2{
+    text-align: center;
+    border: 2px solid white;
+    height: 400px;
+    padding: 20px;
+    margin: 100px;
+    border-style: solid;
+}
+#box1{
+    text-align: center;
+    border: 1px solid white;
+    color:white;
+    padding:20px;
+    margin:10px; 
+    -webkit-box-flex: 1;
+}
